@@ -9,6 +9,7 @@ def poisk(po):
             while po in x:
                 print(x)
                 break
+l
 
         
 def read():
