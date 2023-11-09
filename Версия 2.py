@@ -2,6 +2,7 @@ from ast import*
 print("Запись на техническое обслуживание транспортных средств\n")
 list1 = []
 
+
 with open('l', 'r') as f:
     for line in f:
         items = literal_eval(line)
