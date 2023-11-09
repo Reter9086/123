@@ -1,6 +1,6 @@
 from ast import*
 123
-
+cvbnm
 list1 = []
 with open('l', 'r') as f:
     for line in f:
